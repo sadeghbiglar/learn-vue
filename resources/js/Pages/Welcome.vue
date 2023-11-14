@@ -20,6 +20,7 @@ defineProps({
 </script>
 
 <template>
+<div>
     <Head title="Welcome" />
 
     <div
@@ -320,6 +321,7 @@ defineProps({
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </template>
 
